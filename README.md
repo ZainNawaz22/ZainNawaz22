@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## hacked
-![Alt text](![image](https://github.com/ZainNawaz22/ZainNawaz22/assets/114809517/500e57d3-5e00-4ca9-a25b-6d89b235f4d6)
- "a title")
+![Alt text](https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/000/926/278/datas/original.jpg)
